@@ -1,2 +1,3 @@
 # hello-world
-this is me, trying to learn how to use git hub
+this is me, trying to learn how to use git hub.
+I m having a blast, I bought a new eyboard and the keys dont work...
